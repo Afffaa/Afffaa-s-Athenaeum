@@ -5,22 +5,22 @@ date: 2024-08-16
 
 
 ## About and Motivation
----
+
 
 
 
 ## Papers by Year 
----
+
 
 
 
 ## Categories
----
+
 
 
 
 # Chronological list of papers read
----
+
 
 1. A Review of Automatic Differentiation and Its Efficient Implementation
 	- General Info
