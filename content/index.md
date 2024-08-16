@@ -12,7 +12,7 @@ Here is a the structure for this athenaeum:
 - About
 - CV
 - Publication
-- Academic Papers Journey
+- [Academic Papers Journey](Academic Papers Journey.md)
 - Music with Afffaa
 - Comics with Afffaa
 - Contact
