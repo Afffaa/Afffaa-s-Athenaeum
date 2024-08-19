@@ -10,7 +10,7 @@ title: Welcome to Afffaa's Athenaeum
 
 Here is a the structure for this athenaeum:
 - About
-- CV
+- [[Amirhossein Alivandi CV|CV]]
 - Publication
 - [[Academic Papers Journey]]
 - Music with Afffaa
