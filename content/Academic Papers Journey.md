@@ -12,7 +12,7 @@ I have figured that properly doing a research at the Ph.D. level requires readin
 # Chronological list of papers read
 
 
-1. Differentiable Programming for Differential Equations: A Review
+1. ***Differentiable Programming for Differential Equations: A Review***
 	- **General Info**
 		- **Year**. 2024
 		- **Journal**. arXiv
