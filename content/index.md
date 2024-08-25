@@ -8,7 +8,7 @@ title: Welcome to Afffaa's Athenaeum
 
 
 
-Here is a the structure for this athenaeum:
+Here is the structure for this athenaeum:
 - About
 - [[Amirhossein Alivandi CV|CV]]
 - Publication
@@ -18,3 +18,10 @@ Here is a the structure for this athenaeum:
 - Contact
 
 Another sections also will be added through time!!!
+
+
+> [!INFO] Currently Reading
+> In this section, I will actively update the books I'm currently reading. This accounts to multiple reasons, one of which is mutual motivation, to me (the reader, to carry on), and to you (to start reading more and more)!!!
+>
+> - Solving ODEs I, 2nd Edition (by Hairer) - Read Section 1.1
+> - 
