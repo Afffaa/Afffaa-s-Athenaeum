@@ -44,5 +44,5 @@ So, this section will contain the summaries to academic papers which I have read
 		- Summary
 		- **current situation**. Phase 1 is done (Very much eager to dive into the paper)
 		- phase 1 - 2024.08.21
-		- phase 2 - date
+		- phase 2 - 2024.08.25
 		- phase 3 - date
