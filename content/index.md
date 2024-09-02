@@ -23,5 +23,6 @@ Another sections also will be added through time!!!
 > [!INFO] Currently Reading
 > In this section, I will actively update the books I'm currently reading. This accounts to multiple reasons, one of which is mutual motivation, to me (the reader, to carry on), and to you (to start reading more and more)!!!
 >
-> - Solving ODEs I, 2nd Edition (by Hairer) - Read Section 1.1
-> - 
+> - Solving ODEs I, 2nd Edition (by Hairer) - Read section 1.4
+> - Evaluating Derivatives (by Griewank) - Read chapter 1
+> - English for Writing Research Papers, 3rd Edition (by Wallwork) - Read chapter 1
