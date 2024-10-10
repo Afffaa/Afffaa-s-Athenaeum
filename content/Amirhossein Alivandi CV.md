@@ -14,12 +14,11 @@ Link to the latest version of my cv
 **M.Sc. in Chemical Engineering - Separation Processes, Sharif University of Technology (2020-2023)**
 - GPA. _3.61/4.00 (16.01/20.00)_
 - Thesis. _Hydrodynamic Analysis of the Motion of Particles in a Fluidized Bed using Markov Chain Method_ (Supervisor: Dr. Fotovat) [[Resources/Amirhossein Alivandlai - MSc Thesis.pdf |PDF]]
-- Transcript. [[Resources/Amirhossein Alivandlai - MSc Transcript |PDF]]
+- Transcript. [[Resources/Amirhossein Alivandlai - MSc Transcript.pdf|PDF]]
 
 **B.Sc. in Chemical Engineering, Iran University of Science and Technology (2015-2019)**
 - GPA. _3.15/4.00 (15.78/20.00)_
-- Thesis. _Design and Simulation of Dehydration Units_ (Supervisor: Dr. Shahhosseini) [Resources/Amirhossein Alivandlai - BSc Thesis |PDF]
-
+- Thesis. _Design and Simulation of Dehydration Units_ (Supervisor: Dr. Shahhosseini) [[Resources/Amirhossein Alivandlai - BSc Thesis.pdf|PDF]]
 
 ## Research Interests
 
@@ -36,12 +35,12 @@ Link to the latest version of my cv
 
 ## Research Experience
 
-- **Markov Chains Modeling of Large Particle Motion in a Binary Bubbling Fluidized Bed using MATLAB**, Sharif University of Technology, Dr. Fotovat (2022-2023) [Resources/Amirhossein Alivandlai - PhD Defence.pdf|PDF]
-- **Machine Learning Modeling of Vacuum Membrane Distillation using Python**, Research Institute of Petroleum Industry, Dr. Sadeghian (2022-2024) [Resources/Modeling Membrane Distillation Results.pdf|PDF]
-- **Classification of Robusta and Arabica Coffee Beans using PLS-DA Method, NIR Spectroscopy, and MATLAB**, Sharif University of Technology, Dr. Parastar (2022) [Resources/PLS-DA and NIR Spectroscopy for Classification of Robusta and Arabica Coffee Beans.pdf|PDF]
-- **Simulation of Propylene Glycol Production using Aspen HYSYS**, Sharif University of Technology, Dr. Taherinia (2022)
+- **Markov Chains Modeling of Large Particle Motion in a Binary Bubbling Fluidized Bed using MATLAB**, Sharif University of Technology, Dr. Fotovat (2022-2023) [[Resources/Amirhossein Alivandlai - PhD Defence.pdf|PDF]]
+- **Machine Learning Modeling of Vacuum Membrane Distillation using Python**, Research Institute of Petroleum Industry, Dr. Sadeghian (2022-2024) [[Resources/Modeling Membrane Distillation Results.pdf|PDF]]
+- **Classification of Robusta and Arabica Coffee Beans using PLS-DA Method, NIR Spectroscopy, and MATLAB**, Sharif University of Technology, Dr. Parastar (2022) [[Resources/PLS-DA and NIR Spectroscopy for Classification of Robusta and Arabica Coffee Beans.pdf|PDF]]
+- **Simulation of Propylene Glycol Production using Aspen HYSYS**, Sharif University of Technology, Dr. Taherinia (2022) [[Resources/Propylene Glycol Production.pdf|Report PDF]], [[Resources/PGP - Notes.pdf|Notes]], [[Resources/PGP - Equilibrium Results.pdf|Equilibrium Results]], [[Resources/PGP - Requested Parameters.pdf|Requested Parameters]]
 - **Machine Learning Classification of Particles in a Binary Fluidized Bed using MATLAB and Python**, Sharif University of Technology, Dr. Fotovat (2021-2022)
-- **Simulation and Optimization of Axial-flow and Radial-flow Reactors for Dehydrogenation of Ethylbenzene into Styrene based on a Heterogeneous Kinetic Model using MATLAB**, Sharif University of Technology, Dr. Khorashe (2021)
+- **Simulation and Optimization of Axial-flow and Radial-flow Reactors for Dehydrogenation of Ethylbenzene into Styrene based on a Heterogeneous Kinetic Model using MATLAB**, Sharif University of Technology, Dr. Khorashe (2021) [[Resources/Modeling The Dehydrogenation of Ethylbenzene Reactor.pdf|PDF]]
 - **Design of Experiment and Optimization of Phenol Extraction Parameters in a Liquid Emulsion Membrane using Fractional Factorial Design and Minitab**, Sharif University of Technology, Dr. Fotovat (2021)
 - **2D Simulation of Gas-solid Canonical Fluidized Beds using ANSYS Fluent and Analysis of Bubble Behavior using MATLAB**, Sharif University of Technology, Dr. Molaei (2021)
 - **Simulation of a Particle Aggregation System using ANSYS Fluent**, Rahneshan Competition for Exceptional Students, Dr. Riahifar (2020-2021)
@@ -50,7 +49,7 @@ Link to the latest version of my cv
 
 ## Teaching Experience
 
-- **Computational Fluid Dynamics - The Basics and Introduction to Elementary Simulations using ANSYS Fluent**, Exclusive Classes (2023)
+- **Computational Fluid Dynamics - The Basics and Introduction to Elementary Simulations using ANSYS Fluent**, Exclusive Classes (2023) [[Resources/CFD - Session 1 - Introductory Course.pdf|Session 1]], [[Resources/CFD - Session 2 - Review of Linear Algebra.pdf|Session 2]], [[Resources/CFD - Session 3 - Introduction to Numerical Methods.pdf|Session 3]], 
 - **Introduction to Programming with Python**, Exclusive Classes (2023)
 
 
@@ -93,14 +92,13 @@ Link to the latest version of my cv
 	- Taken on Oct. 13th, 2022
 	- Total Score - 7.5
 	- Each Score - L. 7.5 | R. 8.5 | W. 6.5 | S. 7.0
-	- Test Score Report
+	- Test Score Report [[Resources/Amirhossein Alivandlai - IELTS Report.pdf|PDF]]
 	- Preparation Material
 - **General GRE**
 	- Taken on Oct. 27th, 2022
 	- Total Score - 317
 	- Each Score - V. 152 | Q. 165 | W. 3.5
-	- Test Score Report
-	- Test Score Report
+	- Test Score Report [[Resources/Amirhossein Alivandlai - GRE Report.pdf|PDF]]
 	- Preparation Material
 
 ## Selected Courses
