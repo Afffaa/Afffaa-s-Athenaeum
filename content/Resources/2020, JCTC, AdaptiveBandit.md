@@ -1,5 +1,5 @@
 ---
-title: AdaptiveBandit: A Multi-armed Bandit Framework for Adaptive Sampling in Molecular Simulations
+title: AdaptiveBandit - A Multi-armed Bandit Framework for Adaptive Sampling in Molecular Simulations
 tags: Author/Adria_Perez, Author/Pablo_Herrera_Nieto, Author/Stefan_Doerr, Author/Gianni_De_Fabritiis, Keyword/Algorithms, Keyword/Computer_Simulations, Keyword/Conformation, Keyword/Equilibrium, Keyword/Potential_Energy, Journal/JCTC
 date: 2024-10-10
 ---
