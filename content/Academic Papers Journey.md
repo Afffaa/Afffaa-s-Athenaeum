@@ -46,4 +46,9 @@ So, this section will contain the summaries to academic papers which I have read
    - Phase 1 - 2024.10.07
    - Phase 2 - 
    - Phase 3 - 
-2. 
+2. ***AdaptiveBandit: A Multi-armed Bandit Framework for Adaptive Sampling in Molecular Simulations***
+   - (2020, JCTC, [DOI Link)())
+   - Summary [[2020, JCTC, AdaptiveBandit]]
+   - Phase 1 - 2024.10.10
+   - Phase 2 -
+   - Phase 3 - 
