@@ -14,7 +14,6 @@ Here is the structure for this athenaeum:
 - Publication
 - [[Academic Papers Journey]]
 - Music with Afffaa
-- Comics with Afffaa
 - Contact
 
 Another sections also will be added through time!!!
@@ -23,6 +22,14 @@ Another sections also will be added through time!!!
 > [!INFO] Currently Reading
 > In this section, I will actively update the books I'm currently reading. This accounts to multiple reasons, one of which is mutual motivation, to me (the reader, to carry on), and to you (to start reading more and more)!!!
 >
-> - Solving ODEs I, 2nd Edition (by Hairer) - Read section 1.4
-> - Evaluating Derivatives (by Griewank) - Read chapter 1
-> - English for Writing Research Papers, 3rd Edition (by Wallwork) - Read chapter 1
+> - Solving ODEs I, 2nd Edition (by Hairer) | Read Section 1.7 | + Notes
+> - Evaluating Derivatives (by Griewank) | Read Chap. 1 | + Notes
+> - English for Writing Research Papers, 3rd Edition (by Wallwork) | Read chap. 2 | + Notes
+> - Bandit Algorithms (by Tor Lattimore) | Read Chap. 5 | + Notes
+> - Understanding Molecular Simulation, 3rd Edition (by Frenkel) | Read Chap. 2 | + Notes
+> - Reinforcement Learning and Stochastic Optimization (by Powell) | Read Chap. 2
+
+> [!INFO] PhD Semester 1 - Courses
+> - Online Learning and Bandit Algorithms, Mathematics Department, Dr. Alishahi
+> - Modern and Optimal Control, Chemical and Petroleum Engineering Department, Dr. Pishvaei
+
