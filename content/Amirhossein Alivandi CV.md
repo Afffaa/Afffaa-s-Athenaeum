@@ -13,8 +13,8 @@ Link to the latest version of my cv
 
 **M.Sc. in Chemical Engineering - Separation Processes, Sharif University of Technology (2020-2023)**
 - GPA. _3.61/4.00 (16.01/20.00)_
-- Thesis. _Hydrodynamic Analysis of the Motion of Particles in a Fluidized Bed using Markov Chain Method_ (Supervisor: Dr. Fotovat) [Resources/Amirhossein Alivandlai - MSc Thesis.pdf |PDF]
-- Transcript. [Resources/Amirhossein Alivandlai - MSc Transcript |PDF]
+- Thesis. _Hydrodynamic Analysis of the Motion of Particles in a Fluidized Bed using Markov Chain Method_ (Supervisor: Dr. Fotovat) [[Resources/Amirhossein Alivandlai - MSc Thesis.pdf |PDF]]
+- Transcript. [[Resources/Amirhossein Alivandlai - MSc Transcript |PDF]]
 
 **B.Sc. in Chemical Engineering, Iran University of Science and Technology (2015-2019)**
 - GPA. _3.15/4.00 (15.78/20.00)_
