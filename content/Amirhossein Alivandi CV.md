@@ -13,13 +13,12 @@ Link to the latest version of my cv
 
 **M.Sc. in Chemical Engineering - Separation Processes, Sharif University of Technology (2020-2023)**
 - GPA. _3.61/4.00 (16.01/20.00)_
-- Thesis. _Hydrodynamic Analysis of the Motion of Particles in a Fluidized Bed using Markov Chain Method_ (Supervisor: Dr. Fotovat)
-- Transcript. _Link to File_
+- Thesis. _Hydrodynamic Analysis of the Motion of Particles in a Fluidized Bed using Markov Chain Method_ (Supervisor: Dr. Fotovat) [Resources/Amirhossein Alivandlai - MSc Thesis.pdf |PDF]
+- Transcript. [Resources/Amirhossein Alivandlai - MSc Transcript |PDF]
 
 **B.Sc. in Chemical Engineering, Iran University of Science and Technology (2015-2019)**
 - GPA. _3.15/4.00 (15.78/20.00)_
-- Thesis. _Design and Simulation of Dehydration Units_ (Supervisor: Dr. Shahhosseini)
-- Transcript. _Link to File_
+- Thesis. _Design and Simulation of Dehydration Units_ (Supervisor: Dr. Shahhosseini) [Resources/Amirhossein Alivandlai - BSc Thesis |PDF]
 
 
 ## Research Interests
@@ -27,7 +26,7 @@ Link to the latest version of my cv
 - Developing Frameworks and Software for Chemical Engineering and Numerical Problem-solving
 - Parallel Computing, Scientific Machine Learning, and Application of Machine Learning Algorithms in Chemical Engineering
 - Reinforcement Learning, Operations Research, Decision-making and Optimization
-- Physical, Quantum, and Computational Chemistry
+- Physical Chemistry, Molecular Dynamics, Quantum Chemistry, and Computational Chemistry
 - Computational Fluid Dynamics (CFD) Simulations, Fluidized Beds, Multiphase Flow, and Particle Tracking
 
 
@@ -37,9 +36,9 @@ Link to the latest version of my cv
 
 ## Research Experience
 
-- **Markov Chains Modeling of Large Particle Motion in a Binary Bubbling Fluidized Bed using MATLAB**, Sharif University of Technology, Dr. Fotovat (2022-2023)
-- **Machine Learning Modeling of Vacuum Membrane Distillation using Python**, Research Institute of Petroleum Industry, Dr. Sadeghian (2022-2024)
-- **Classification of Robusta and Arabica Coffee Beans using PLS-DA Method, NIR Spectroscopy, and MATLAB**, Sharif University of Technology, Dr. Parastar (2022)
+- **Markov Chains Modeling of Large Particle Motion in a Binary Bubbling Fluidized Bed using MATLAB**, Sharif University of Technology, Dr. Fotovat (2022-2023) [Resources/Amirhossein Alivandlai - PhD Defence.pdf|PDF]
+- **Machine Learning Modeling of Vacuum Membrane Distillation using Python**, Research Institute of Petroleum Industry, Dr. Sadeghian (2022-2024) [Resources/Modeling Membrane Distillation Results.pdf|PDF]
+- **Classification of Robusta and Arabica Coffee Beans using PLS-DA Method, NIR Spectroscopy, and MATLAB**, Sharif University of Technology, Dr. Parastar (2022) [Resources/PLS-DA and NIR Spectroscopy for Classification of Robusta and Arabica Coffee Beans.pdf|PDF]
 - **Simulation of Propylene Glycol Production using Aspen HYSYS**, Sharif University of Technology, Dr. Taherinia (2022)
 - **Machine Learning Classification of Particles in a Binary Fluidized Bed using MATLAB and Python**, Sharif University of Technology, Dr. Fotovat (2021-2022)
 - **Simulation and Optimization of Axial-flow and Radial-flow Reactors for Dehydrogenation of Ethylbenzene into Styrene based on a Heterogeneous Kinetic Model using MATLAB**, Sharif University of Technology, Dr. Khorashe (2021)
