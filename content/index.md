@@ -21,12 +21,12 @@ Another sections also will be added through time!!!
 > [!INFO]- Currently Reading Books
 > In this section, I will actively update the books I'm currently reading (updated weekly at fridays). This accounts to multiple reasons, one of which is mutual motivation, to me (the reader, to carry on), and to you (to start reading more and more)!!!
 >
-> - (Not a priority now) Solving ODEs I, 2nd Edition (by Hairer) | Read Section 1.7 | + Notes
-> - (Not a priority now) Evaluating Derivatives (by Griewank) | Read Chap. 1 | + Notes
-> - (It's not a tiresome read) English for Writing Research Papers, 3rd Edition (by Wallwork) | Read chap. 2 | + Notes
-> - (Priority, main resource for "online learning" course) Bandit Algorithms (by Tor Lattimore) | Read Chap. 5 | + Notes
-> - (Priority, MD prestudies) Understanding Molecular Simulation, 3rd Edition (by Frenkel) | Read Chap. 2 | + Notes
-> - (Priority, RL prestudies) Reinforcement Learning and Stochastic Optimization (by Powell) | Read Chap. 2
+> - ***(Not a priority now)*** Solving ODEs I, 2nd Edition (by Hairer) | Read Section 1.7 | + Notes
+> - ***(Not a priority now)*** Evaluating Derivatives (by Griewank) | Read Chap. 1 | + Notes
+> - ***(It's not a tiresome read)*** English for Writing Research Papers, 3rd Edition (by Wallwork) | Read chap. 2 | + Notes
+> - ***(Priority, main resource for "online learning" course)*** Bandit Algorithms (by Tor Lattimore) | Read Chap. 5 | + Notes
+> - ***(Priority, MD prestudies)*** Understanding Molecular Simulation, 3rd Edition (by Frenkel) | Read Chap. 2 | + Notes
+> - ***(Priority, RL prestudies)*** Reinforcement Learning and Stochastic Optimization (by Powell) | Read Chap. 2
 
 Note that as a Ph.D. candidate, I have a lot of responsibilities. To try and handle these responsibilities, I will try to stablish a schedule for updating site materials. Current time-table for site updates are as follows:
 - **Saturdays**. Upload more Resources
