@@ -14,7 +14,7 @@ Here is the structure for this athenaeum:
 - Publication
 - [[Academic Papers Journey]]
 - Music with Afffaa
-- [[Contact]]
+- [[Contact Information]]
 
 Another sections also will be added through time!!!
 
