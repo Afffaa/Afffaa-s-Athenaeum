@@ -34,7 +34,7 @@ So, this section will contain the summaries to academic papers which I have read
 
 > [!INFO] A Sample Paper Summary Structure
 >
-> Use the sample page to get access to the structure I use for creating the paper summaries
+> Use the [[Paper Template]] to get access to the structure I use for creating the paper summaries
 
 
 # Chronological list of papers read
