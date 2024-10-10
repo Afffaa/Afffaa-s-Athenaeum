@@ -1,7 +1,7 @@
 ---
-title: (Year, Journal, Paper Title)
-tags: (Author(s), Keywords, Journal)
-date: (YYYY-MM-DD)
+title: Paper Template
+tags: Author, Keywords, Journal
+date: 2024-10-10
 ---
 
 # Year, Journal, Title
@@ -9,15 +9,24 @@ date: (YYYY-MM-DD)
 > [!INFO]- Paper Information
 >
 > **Title**. Title
+> 
 > **Year**. YYYY-MM-DD
+>
 > **DOI Link**. Link
+>
 > **Author(s)**. Author (Affiliation)
+>
 > **Journal**. Journal
+>
 > **Volume**. Volume
+>
 > **Issue**. Issue
+>
 > **Pages**. Pages
+>
 > 
 > **CiteKey**. 1stAuthorYear
+>
 > **ItemType**. Type of Paper
 
 
