@@ -64,26 +64,15 @@ it's possible!!
 # Re-Implementing Attempt(s) / Fusing into my Research
 ---
 
+- Did You attempted to re-implement it?
+- Are you Goning to Implement it in your own research?
+  - How?
+  - Can you plan it?
+  - Is it Possible?
+
+
 # Related Literature
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Some of the interesting literature from either citated by or citations.
 
