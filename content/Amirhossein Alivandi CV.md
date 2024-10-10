@@ -103,7 +103,6 @@ Link to the latest version of my cv
 
 ## Selected Courses
 
-- Undergraduate (Chemical Engineering)
-- Graduate (Chemical Engineering, Separation Processes)
-- Audited (at Sharif University of Technology)
-- Audited (Online)
+- [[Undergraduate Courses]]
+- [[Graduate Courses]]
+
