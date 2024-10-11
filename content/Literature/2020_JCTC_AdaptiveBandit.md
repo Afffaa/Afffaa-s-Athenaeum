@@ -50,9 +50,10 @@ Put it Here
 # Paper Summary
 ---
 
-> Follow the style of [CME 302](https://ericdarve.github.io/NLA/)
->
-> 1. Introduction
+> 1. [[Literature/AdaptiveBandit Introduction |Introduction]]
+>   - Why to use Computer Molecular Simulation
+>   - Sampling in Molecular Simulations and Its Difficulties
+>   - Markov State Models and multi-armed Bandit Relations
 > 2. Methods
 >  2.1. MD Simulations
 >  2.2 Multi-armed Bandit Problem
@@ -68,9 +69,6 @@ Put it Here
 >  3.3. Testing on Protein Folding Simulations
 > 4. Conclusions
 > 
-> It's like this
-> - Link to Notes with a Proper title
->     - 1-2 main points (goals)
 
 ## Key Conclusion
 
