@@ -50,25 +50,25 @@ Put it Here
 # Paper Summary
 ---
 
-> 1. [[Literature/AdaptiveBandit Introduction |Introduction]]
->   - Why to use Computer Molecular Simulation
->   - Sampling in Molecular Simulations and Its Difficulties
->   - Markov State Models and multi-armed Bandit Relations
-> 2. Methods
->  2.1. MD Simulations
->  2.2 Multi-armed Bandit Problem
->  2.3. AdaptiveBandit
->  2.4. Solving the Multi-armed Bandit Problem
->  2.5. AdaptiveBandit with Knowledge-based Initialization
->  2.6. Other Adaptive Sampling Algorithms
->  2.7. Langevin Dynamics on 2D Potentials
->  2.8. MD Simulation Setup
-> 3. Results
->  3.1. Performance Testing on 2D Potentials
->  3.2. Using System External Knowledge
->  3.3. Testing on Protein Folding Simulations
-> 4. Conclusions
-> 
+1. [[Literature/AdaptiveBandit Introduction |Introduction]]
+ - Why to use Computer Molecular Simulation
+ - Sampling in Molecular Simulations and Its Difficulties
+ - Markov State Models and multi-armed Bandit Relations
+2. [[Literature/AdaptiveBandit, Methods, MD Simulations |Methods]]
+2.1. MD Simulations
+2.2 Multi-armed Bandit Problem
+2.3. AdaptiveBandit
+2.4. Solving the Multi-armed Bandit Problem
+2.5. AdaptiveBandit with Knowledge-based Initialization
+2.6. Other Adaptive Sampling Algorithms
+2.7. Langevin Dynamics on 2D Potentials
+2.8. MD Simulation Setup
+3. Results
+3.1. Performance Testing on 2D Potentials
+3.2. Using System External Knowledge
+3.3. Testing on Protein Folding Simulations
+4. Conclusions
+
 
 ## Key Conclusion
 
